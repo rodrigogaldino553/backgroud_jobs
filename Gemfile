@@ -76,3 +76,5 @@ gem "tailwindcss-rails", "~> 2.0"
 gem "sidekiq", "~> 7.0"
 
 gem "devise", "~> 4.8"
+
+gem "mailcatcher", "~> 0.2.4"
